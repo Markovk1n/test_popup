@@ -1,4 +1,4 @@
 *.yaml
 *.js
-*.py
 /test_dict
+*.DS_Store
