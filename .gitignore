@@ -1,4 +1,3 @@
 *.yaml
-*.js
 /test_dict
 *.DS_Store
