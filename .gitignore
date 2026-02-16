@@ -1,4 +1,4 @@
 *.yaml
 *.js
 /test_dict
-*.DB_Store
+*.DS_Store
