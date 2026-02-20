@@ -6,6 +6,7 @@ func main() {
 	fmt.Print("Hello World")
 
 	plus()
+	Random()
 }
 
 func plus() {
