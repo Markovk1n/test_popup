@@ -7,6 +7,10 @@ func main() {
 	minus(1)
 	plus()
 	Random()
+
+	for i := range []int{1, 2, 3} {
+		fmt.Print(i)
+	}
 }
 
 func plus() {
